@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'TW-Template'
+description 'Syntax Leasing'
 version '1.0.0'
 
 shared_script {
